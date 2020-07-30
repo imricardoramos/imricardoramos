@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="cool-gifs/giphy.gif"/>
-  <img src="cool-gifs/plantation.gif" />
+  <img width="49%" src="https://github.com/imricardoramos/imricardoramos/blob/master/cool-gifs/giphy.gif"/>
+  <img width="49%" src="https://github.com/imricardoramos/imricardoramos/blob/master/cool-gifs/plantation.gif" />
 </p>
 <p align="center">
 </p>
@@ -12,7 +12,6 @@
 <img height="50px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/20167174151551942641-512.png" /><!--React-->
 <img height="50px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/191213921552037062-512.png" /><!--VueJS-->
 <img height="50px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/21299071571548141943-512.png" /><!--GraphQL-->
-<img height="50px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/15889022741579517836-512.png" /><!--Docker-->
 <img height="50px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/20090363691548218201-512.png" /><!--Kubernetes-->
 <img height="50px" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png" /><!--Terraform--> 
 </p>
