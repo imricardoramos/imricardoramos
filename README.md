@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/BlcWQ9L2VfOFO/giphy.gif"/>
+  <img src="cool-gifs/giphy.gif"/>
+  <img src="cool-gifs/plantation.gif" />
 </p>
 <p align="center">
 </p>
